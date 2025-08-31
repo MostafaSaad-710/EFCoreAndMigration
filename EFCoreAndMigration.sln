@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreAndMigration", "EFCoreAndMigration\EFCoreAndMigration.csproj", "{8A6EE35F-B1FA-4791-BBE3-BE3FE20FF96F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assighment", "Assighment\Assighment.csproj", "{C6A227C7-4C4C-43B1-9189-1E74BA3040B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8A6EE35F-B1FA-4791-BBE3-BE3FE20FF96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A6EE35F-B1FA-4791-BBE3-BE3FE20FF96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A6EE35F-B1FA-4791-BBE3-BE3FE20FF96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A227C7-4C4C-43B1-9189-1E74BA3040B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A227C7-4C4C-43B1-9189-1E74BA3040B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A227C7-4C4C-43B1-9189-1E74BA3040B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A227C7-4C4C-43B1-9189-1E74BA3040B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
