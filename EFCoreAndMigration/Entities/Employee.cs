@@ -16,7 +16,9 @@ namespace EFCoreAndMigration.Entities
     // 4. Class Convegration
 
 
-    //Entity
+    /// <summary>
+    ///Entity
+    /// </summary>
     //POCO : Plain OLD CLR Object
 
     #region 1. By Convention [default Behaviour]
